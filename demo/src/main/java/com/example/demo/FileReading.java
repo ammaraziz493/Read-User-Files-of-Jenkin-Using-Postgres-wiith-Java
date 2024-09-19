@@ -14,7 +14,7 @@ import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 import static java.nio.file.StandardWatchEventKinds.*;
 
-public class FolderWatcher {
+public class FileReading {
 
 	public static void main(String[] args) {
 		try {
